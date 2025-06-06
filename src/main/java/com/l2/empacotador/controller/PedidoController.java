@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class PedidoController {
 
-    @GetMapping("/ping")
+    @GetMapping("/")
     public String ping() {
         return "API do Empacotador está no ar 🚀";
     }

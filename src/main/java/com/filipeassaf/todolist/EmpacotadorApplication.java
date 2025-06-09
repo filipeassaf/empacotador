@@ -1,4 +1,4 @@
-package com.l2.empacotador;
+package com.filipeassaf.todolist;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

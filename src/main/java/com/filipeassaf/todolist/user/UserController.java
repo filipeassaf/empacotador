@@ -1,11 +1,8 @@
-package com.l2.empacotador.controller;
+package com.filipeassaf.todolist.user;
 
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-
-import com.l2.empacotador.model.UserModel;
-
 import org.springframework.web.bind.annotation.RequestBody;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
